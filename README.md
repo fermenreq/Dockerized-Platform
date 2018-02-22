@@ -1,6 +1,6 @@
-# Dockerized City2Go Platform
+# Dockerized WebApp Platform
 
-The purpose of this folder is to provide the Docker descriptors for the task of amplifying STAMP configurations, not with the intention of instantiating City2Go
+The purpose of this folder is to provide the Docker descriptors to deploy a webapp.
 
 ## Getting Started
 
